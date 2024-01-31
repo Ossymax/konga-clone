@@ -1,0 +1,225 @@
+.ossymax-container-fluid img{
+
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+.ossymax-nav-bar img{
+    width: 100px;
+    
+}
+
+ul, li{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+
+.ossymax-other-category{
+    width: 90%;
+    margin: auto;
+    
+}
+
+
+.sort-container-fluid {
+    font-size: 15px;
+    padding: 2px;
+    
+}
+
+
+/* THE SIDEBAR-MAIN-CONTENT -MENU STARTS HERE */
+
+
+
+.side-bar-menu{
+    width: 30%;
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+.browse-icon{
+    font-size: 16px;
+} 
+
+.price-custom input{
+    width: 70%;
+    padding: 5px;
+    text-indent: 20px
+}
+
+
+.search input{
+    width: 80%;
+    padding: 10px;
+    outline: none;
+}
+
+.search span{
+    border-radius: 10px;
+    font-size: 20px;
+    position: absolute;
+   right: 80px;
+   bottom: 5px; 
+    
+}
+
+.search{
+    position: relative;
+}
+/* SIDE-BAR-MENU ENDS HERE */
+
+
+
+
+
+/* MENU-CONTAINER STARTS HERE */
+.menu-container{
+    width: 100%;
+
+}
+
+.heady img{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+
+.osita-max-container{
+   background-color: aliceblue;
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+   margin: auto;
+    gap: 50px;
+
+}
+
+.contents-images{
+    width: 99%;
+    margin: auto;
+}
+
+
+
+
+.col-sm-3 img{
+    width: 100%
+    
+
+}
+
+
+/* FOOTER-HEAD CONTAINER STYLING STARTS HERE */
+
+.footerhead{
+    width: 100%;
+    margin: auto;
+    height: 15vh;
+}
+
+
+span, i{
+    border-radius: 20px;
+    background-color: white;
+    padding: 5px;
+    
+    
+}
+
+.email-support{
+    position: relative;
+    margin-right: 100px;
+}
+
+.support{
+    position: absolute;
+    top: 15px;
+    
+}
+
+
+.email{
+    padding-left: 50px;
+}
+
+.phone-support{
+    position: relative;
+}
+
+.supp{
+    position: absolute;
+    top: 15px;
+    left: 0;
+}
+
+.phone{
+    padding-left: 50px;
+}
+
+.whatsapp-call{
+    position: relative;
+}
+
+.whatsapp{
+    padding-left: 50px;
+}
+
+.supo{
+    position: absolute;
+    top: 15px;
+    left: 0;
+}
+
+
+input{
+    padding: 15px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.input button{
+    border-radius: 20px;
+    
+}
+
+
+
+
+.main-footage-container a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.main-footage-container{
+    height: 30vh;
+    width: 100%;
+    margin: auto;
+    text-align: start;
+    
+}
+
+
+
+
+
+
+   
